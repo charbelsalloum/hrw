@@ -1,3 +1,6 @@
+## https://charbelsalloum.info
+Fighting war crimes.
+
 ## RESEARCH SUPPORT
 #### I contributed and provided research support to 75+ research publications led by HRW researchers, through witness interviews and open-source investigations: 
 
