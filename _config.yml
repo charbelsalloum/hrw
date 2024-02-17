@@ -1,2 +1,4 @@
-remote-theme: minima
+remote_theme: jekyll/minima
 skin: dark
+name: "Charbel Salloum" 
+title: null 
