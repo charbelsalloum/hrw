@@ -1,5 +1,6 @@
-name: " " 
-title: null
+
 remote_theme: jekyll/minima
 minima:
   skin: dark
+  name: " " 
+title: null
