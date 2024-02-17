@@ -1,4 +1,4 @@
-## RESEARCH 
+## RESEARCH SUPPORT
 #### I contributed and provided research support to 75+ research publications led by HRW researchers, through witness interviews and open-source investigations: 
 
 08/22/2015: [Lebanon: Police Violence Against Protesters](https://www.hrw.org/news/2015/08/22/lebanon-police-violence-against-protesters)
@@ -175,4 +175,4 @@
 
 [2022 Syria World Report Chapter](https://www.hrw.org/world-report/2022/country-chapters/syria)
 
-## WORKFLOW OPTIMIZATION
+## KNOWLEDGE, INFORMATION, AND EVIDENCE MANAGEMENT
