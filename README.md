@@ -1,5 +1,4 @@
-# HRW
-
+## RESEARCH 
 #### I contributed and provided research support to 75+ research publications led by HRW researchers, through witness interviews and open-source investigations: 
 
 08/22/2015: [Lebanon: Police Violence Against Protesters](https://www.hrw.org/news/2015/08/22/lebanon-police-violence-against-protesters)
@@ -72,13 +71,13 @@
 
 05/04/2021: [Lebanon: Allow Syrian Refugee Students to Take Exams](https://www.hrw.org/news/2021/05/04/lebanon-allow-syrian-refugee-students-take-exams)
 
-08/03/2021: ['They Killed Us from the Inside': An Investigation into the August 4 Beirut Blast](file:///)
+08/03/2021: ['They Killed Us from the Inside': An Investigation into the August 4 Beirut Blast](https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast)
 
 04/13/2022: [Lebanon: Questions for Candidates About Rights](https://www.hrw.org/news/2022/04/13/lebanon-questions-candidates-about-rights)
 
 12/12/2022: [Lebanon: Rising Poverty, Hunger Amid Economic Crisis](https://www.hrw.org/news/2022/12/12/lebanon-rising-poverty-hunger-amid-economic-crisis)
 
-01/25/2022: [Lebanon: Victims' Families Despair as Blast Suspects Freed](lebanon:%20Victims%E2%80%99%20Families%20Despair%20as%20Blast%20Suspects%20Freed)
+01/25/2022: [Lebanon: Victims' Families Despair as Blast Suspects Freed](https://www.hrw.org/news/2023/01/25/lebanon-victims-families-despair-blast-suspects-freed)
 
 03/09/2023: ['Cut Off from Life Itself': Lebanon's Failure on the Right to Electricity'](https://www.hrw.org/node/384159)
 
@@ -149,3 +148,31 @@
 11/23/2022: [Syria: Cluster Munitions Used in November 6 Attacks](https://www.hrw.org/news/2022/11/23/syria-cluster-munitions-used-november-6-attacks)
 
 06/22/2023: [Questions and Answers: How Sanctions Affect the Humanitarian Response in Syria](https://www.hrw.org/news/2023/06/22/questions-and-answers-how-sanctions-affect-humanitarian-response-syria)
+
+#### I also led research and drafting for the following publications: 
+
+[Lebanon Risks Another Trash Crisis](https://www.hrw.org/news/2020/09/23/lebanon-risks-another-trash-crisis)
+
+[Turkish Border Guards Torture, Kill Syrians](https://www.hrw.org/news/2023/04/27/turkish-border-guards-torture-kill-syrians)
+
+[2020 Lebanon World Report Chapter](https://www.hrw.org/world-report/2020/country-chapters/lebanon)
+
+[2021 Lebanon World Report Chapter](https://www.hrw.org/world-report/2021/country-chapters/lebanon)
+
+[2022 Lebanon World Report Chapter](https://www.hrw.org/world-report/2022/country-chapters/lebanon)
+
+[2023 Lebanon World Report Chapter](https://www.hrw.org/world-report/2023/country-chapters/lebanon)
+
+[2024 Lebanon World Report Chapter](https://www.hrw.org/world-report/2024/country-chapters/lebanon)
+
+[2017 Syria World Report Chapter](https://www.hrw.org/world-report/2017/country-chapters/syria)
+
+[2019 Syria World Report Chapter](https://www.hrw.org/world-report/2019/country-chapters/syria)
+
+[2020 Syria World Report Chapter](https://www.hrw.org/world-report/2020/country-chapters/syria)
+
+[2021 Syria World Report Chapter](https://www.hrw.org/world-report/2021/country-chapters/syria)
+
+[2022 Syria World Report Chapter](https://www.hrw.org/world-report/2022/country-chapters/syria)
+
+## WORKFLOW OPTIMIZATION
