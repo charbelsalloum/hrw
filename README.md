@@ -1,9 +1,8 @@
-# https://charbelsalloum.info
-Currently at Human Rights Watch. Fighting war crimes.  
+# [https://charbelsalloum.info] (https://charbelsalloum.info)
+Fighting war crimes.  
 
-# HRW 
 
-## RESEARCH SUPPORT
+## RESEARCH SUPPORT AT HRW 
 #### I contributed and provided research support to 75+ research publications led by HRW researchers, through witness interviews and open-source investigations: 
 
 08/22/2015: [Lebanon: Police Violence Against Protesters](https://www.hrw.org/news/2015/08/22/lebanon-police-violence-against-protesters)
